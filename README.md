@@ -1,2 +1,3 @@
 # demo-repo
-demo repositary 
+Demo Repository 
+Author- Bishu
